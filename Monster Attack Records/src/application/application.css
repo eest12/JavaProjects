@@ -1,0 +1,50 @@
+/* CS2012 | Erika Estrada | Lab 10 */
+
+.root{
+	-fx-background-color: #f1f4fa;
+}
+
+.menu{
+	-fx-padding: 10;
+	-fx-border-style: solid inside;
+	-fx-border-width: 2;
+	-fx-border-insets: 5;
+	-fx-border-radius: 5;
+	-fx-border-color: #889d94;
+	-fx-background-color: #3b5c54;
+}
+
+.menu-title{
+	-fx-font-size: 30;
+	-fx-text-fill: #f1f4fa;
+}
+
+.menu-text{
+	-fx-text-fill: #f1f4fa;
+}
+
+.menu-hover{
+	-fx-text-fill: #53ccba;
+	-fx-underline: true;
+}
+
+.box{
+	-fx-padding: 10;
+}
+
+.body-title{
+	-fx-padding: 10;
+	-fx-font-size: 30;
+	-fx-text-fill: #3b5c54;
+}
+
+.body-text{
+	-fx-padding: 10;
+	-fx-text-fill: black;
+}
+
+.body-hover{
+	-fx-padding: 10;
+	-fx-text-fill: #779b85;
+	-fx-underline: true;
+}
