@@ -1,0 +1,50 @@
+/* CS2012 | Erika Estrada | Lab 9 */
+
+.root{
+	-fx-background-color: #383838;
+}
+
+.box{
+	-fx-alignment: center;
+}
+
+.label{
+	-fx-text-fill: #E8E8E8;
+}
+
+.label-title{
+	-fx-background-color: #AB4642;
+	-fx-text-fill: #EEE08D;
+	-fx-font-size: 160%;
+}
+
+.label-space{
+	-fx-background-color: #383838;
+	-fx-border-color: black;
+}
+
+.label-wall{
+	-fx-background-color: black;
+	-fx-text-fill: black;
+}
+
+.label-start-end{
+	-fx-background-color: #EEE08D;
+	-fx-text-fill: #AB4642;
+	-fx-alignment: center;
+}
+
+.label-guard{
+	-fx-background-color: #EEE08D;
+	-fx-text-fill: #EEE08D;
+}
+
+.label-lunatic{
+	-fx-background-color: #AB4642;
+	-fx-text-fill: #AB4642;
+}
+
+.button{
+	-fx-background-color: #AB4642;
+	-fx-text-fill: #E8E8E8;
+}
